@@ -1,0 +1,15 @@
+name: momotombo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.10.*
+  - pip
+  - matplotlib
+  - xarray
+  - scikit-image
+  - matplotlib-scalebar
+  - jupyterlab
+  - pooch
+  - tqdm
+  - xlandsat
